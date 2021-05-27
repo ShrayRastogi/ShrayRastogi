@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on Dapr building blocks, Microservices Architecture, Web Dev, Hybrid Mobile Apps using Ionic Framework, Fully automated CI/CD pipelines
 - 📫 How to reach me - www.linkedin.com/in/meet-shray-rastogi
 
-[![Shray's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrayRastogi&show_icons=true&theme=nightowl&layout=compact)](https://github.com/ShrayRastogi/github-readme-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrayRastogi&langs_count=8&theme=nightowl&layout=compact)](https://github.com/ShrayRastogi/github-readme-stats)
+       
+                           |  
+:-------------------------:|:-------------------------:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrayRastogi&langs_count=8&theme=nightowl&layout=compact)](https://github.com/ShrayRastogi/github-readme-stats) |  [![Shray's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrayRastogi&show_icons=true&theme=nightowl&layout=compact)](https://github.com/ShrayRastogi/github-readme-stats)
 
 
 <!---
