@@ -7,6 +7,8 @@
 [![Shray's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrayRastogi&show_icons=true&theme=nightowl
 )](https://github.com/ShrayRastogi/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrayRastogi&langs_count=8)](https://github.com/ShrayRastogi/github-readme-stats)
+
 
 <!---
 ShrayRastogi/ShrayRastogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
