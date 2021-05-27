@@ -5,9 +5,7 @@
 - 📫 How to reach me - www.linkedin.com/in/meet-shray-rastogi
 
 [![Shray's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrayRastogi&show_icons=true&theme=nightowl
-)](https://github.com/ShrayRastogi/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrayRastogi&langs_count=8&theme=nightowl)](https://github.com/ShrayRastogi/github-readme-stats)
+)](https://github.com/ShrayRastogi/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrayRastogi&langs_count=8&theme=nightowl)](https://github.com/ShrayRastogi/github-readme-stats)
 
 
 <!---
