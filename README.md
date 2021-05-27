@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Microservices using .Net Core, Dapr, RedHat OpenShift, AWS, Angualr 11
 - 💞️ I’m looking to collaborate on Dapr building blocks, Microservices Architecture, Web Dev, Hybrid Mobile Apps using Ionic Framework, Fully automated CI/CD pipelines
 - 📫 How to reach me - www.linkedin.com/in/meet-shray-rastogi
-- My Stats - 
-[![Shray's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrayRastogi&show_icons=true&theme=nightowl)
+
+[![Shray's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrayRastogi&show_icons=true&theme=nightowl
 )](https://github.com/ShrayRastogi/github-readme-stats)
 
 
