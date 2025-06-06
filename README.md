@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShrayRastogi
-- 👀 I’m interested in full stack development of web and hybrid mobile apps
-- 🌱 I’m currently learning Microservices using .Net Core, Dapr, RedHat OpenShift, AWS, Angular 11
-- 💞️ I’m looking to collaborate on Dapr building blocks, Microservices Architecture, Web Dev, Hybrid Mobile Apps using Ionic Framework, Fully automated CI/CD pipelines
+- 👀 I’m interested in Architecture (Cloud & AI), Responsible AI, Agentic Workflows & Model Context Protocol
+- 🌱 I’m currently learning MCP Servers, Enabling Agentic AI workflows, Copilot Studio & AI fundamentals
+- 💞️ I’m looking to collaborate on Agentic AI, MCP, LLMs, Security in Agentic AI and MCP, AI at scale
 - 📫 How to reach me - www.linkedin.com/in/meet-shray-rastogi
 
 [![Shray's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrayRastogi&show_icons=true&theme=nightowl)](https://github.com/ShrayRastogi/github-readme-stats)
